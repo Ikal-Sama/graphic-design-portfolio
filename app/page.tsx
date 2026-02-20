@@ -19,7 +19,7 @@ export default function Home() {
     {
       title: "Visual Identity Design",
       description: "Comprehensive branding and visual system for a modern startup.",
-      image: "/images/design1.png",
+      image: "/images/design1.jpg",
       tag: "Branding",
     },
     {
@@ -31,7 +31,7 @@ export default function Home() {
     {
       title: "Abstract Design Concept",
       description: "Exploring experimental colors and typography in digital art.",
-      image: "/images/design2.png",
+      image: "/images/design2.jpg",
       tag: "Digital Art",
     },
     {
